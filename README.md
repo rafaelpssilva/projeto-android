@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/rafael-silva-pe" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="*https://linkwhats.app/8d5a4b*" alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5511945232656" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.instagram.com/rafael.profissional.dev/" alt="Instagram" target="_blank">
